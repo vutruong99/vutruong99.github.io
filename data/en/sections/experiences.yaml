@@ -1,0 +1,54 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Freelance
+    location: 
+    
+  positions:
+  - designation: IELTS Tutor
+    start: 2016
+    responsibilities:
+    - Teach high school and university students IELTS fundamentals
+    - Provide materials for practicing
+    - Supervise and evaluate students' progress
+
+- company:
+    name: FPT Software 
+    url: "https://www.fpt-software.com/"
+    location: 10th floor, 167 Trung Kinh, Cau Giay, Hanoi
+    overview: Vietnam’s largest and one of the fastest growing software companies.
+  positions:
+  - designation: Android Developer Intern
+    start: April 2020
+    end: August 2020
+    responsibilities:
+    - Design UI and write code for the android application
+    - Learn skills taught by the company
+
+- company:
+    name: Topica Native 
+    url: "https://topicanative.edu.vn/"
+    location: 75 Phuong Mai, Ba Dinh, Hanoi
+    overview: Topica Native is one of South East Asia's leading online English training program.
+  positions:
+  - designation: English Teacher
+    start: July 2018 
+    end: December 2018
+    responsibilities:
+    - Teach English online to adults following the organization’s syllabus
+    - Assist native teachers with their lectures occasionally
+    
+    
+  
+    
+  

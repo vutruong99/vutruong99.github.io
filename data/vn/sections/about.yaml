@@ -1,0 +1,61 @@
+# section information
+section:
+  name: Về tôi
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: 
+# your company information
+company:
+  name: Example Co.
+  url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: "Tôi là sinh viên Công nghệ thông tin mới ra trường và đang tìm kiếm cơ hội học Thạc sĩ. Ngoài lập trình, tôi dành thời gian viết truyện ngắn,
+soạn nhạc, chơi đàn, đọc sách và xem phim. Trang web này trực quan hoá CV của tôi và có thêm vài thứ hay ho."  
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "truongsithivu99@gmail.com"
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/vutruong99"
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/thivu.truongsi/"
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "www.linkedin.com/in/vutruong99"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Lãnh đạo
+  percentage: 90
+  color: blue
+- name: Làm việc nhóm
+  percentage: 90
+  color: yellow
+- name: Quản lý thời gian
+  percentage: 85
+  color: green
+- name: Giao tiếp
+  percentage: 85
+  color: sky
+- name: Giải quyết vấn đề
+  percentage: 85
+  color: orange
+- name: Thích nghi 
+  percentage: 90
+  color: pink

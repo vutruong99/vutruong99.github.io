@@ -1,0 +1,30 @@
+# section information
+section:
+  name: Thành tích
+  id: achievements
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Ứng cử viên học bổng Vingroup
+  image: /images/sections/achievements/vingroup.jpg
+  summary: Học bổng Vingroup hỗ trợ tài chính toàn phần những sinh viên xuất sắc có mong muốn theo học Thạc sĩ hoặc Tiến sĩ ở các trường đại học hàng đầu thế giới.
+- title: Học bổng A2 cho học sinh xuất sắc 
+  image: /images/sections/achievements/usth.png
+  summary: Được trao tặng 3 năm liên tiếp tại USTH. Học bổng A2 được trao cho những sinh viên có thành tích học tập xuất sắc.  
+- title: Học bổng thực tập
+  image: /images/sections/achievements/usth.png
+  summary: Học bổng thực tập được trao cho 10% sinh viên toàn trường có thành tích học tập xuất sắc trong năm 2. 
+- title: Giải ba và khuyến khích cuộc thi Tin học cấp quận.
+  image: /images/sections/achievements/cva.jpg
+  summary: Cuộc thi Tin học quận Ba Đình được tổ chức thường niên. Được trao tặng khi đang là học sinh tại trường THPT Chu Văn An.
+- title: Giải ba cuộc thi Review sách Bookdome
+  image: /images/sections/achievements/bookdome.png
+  summary: Bookdome là cuộc thi nhận xét sách được tổ chức bởi trường đại học Khoa học và Công nghệ Hà Nội, nhà Xuất bản Nhã Nam và báo Tiền Phong. Cuốn sách mà tôi đã review là Cô Gái Trên Tàu của Paula Hawkins.
+- title: Giải nhì cuộc thi Hello, America! của Capstone
+  image: /images/sections/achievements/capstone.png
+  summary: Hello, America! là cuộc thi về sự hiểu biết nền văn hoá, địa lý, giáo dục, kinh tế của Mỹ.

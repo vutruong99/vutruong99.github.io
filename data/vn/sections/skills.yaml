@@ -1,0 +1,52 @@
+# section information
+section:
+  name: Kĩ năng
+  id: skills
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Android
+  icon: "/images/sections/skills/android.png"
+  summary: "Có kinh nghiệm viết các ứng dụng điện thoại trên nền tảng Android với Java, Kotlin, Retrofit, Room, Navigation Component, v.v."
+  url: "https://developer.android.com/"
+
+- name: Python
+  icon: "/images/sections/skills/python.png"
+  summary: "Dùng để giải các bài toán, xây dựng thuật toán học máy, và cào dữ liệu. Đã làm việc với Numpy, Pandas, Scrapy, Matplotlib, scikit-learn."
+  url: "https://www.python.org/"
+
+- name: Javascript
+  icon: "/images/sections/skills/javascript.png"
+  summary: "Dùng để xây dựng backend cho web và phát triển ứng dụng điện thoại đa nền tảng. Đã làm việc với Node.js, Express.js, EJS, và React Native"
+  url: "https://www.javascript.com/"
+
+- name: Firebase
+  icon: "/images/sections/skills/firebase.png"
+  summary: "Dùng làm backend cho một dự án Android. Đã làm việc với Firebase Authentication, Firebase Realtime Database và Cloud Firestore."
+
+- name: C/C++
+  icon: "images/sections/skills/c.png"
+  summary: "Nắm được kiến thức C/C++ cơ bản. Dùng để viết thuật toán và giải quyết vấn đề."
+
+- name: Web development
+  icon: "images/sections/skills/web.png"
+  summary: "Nắm được kiến thức HTML, CSS, JS, Bootstrap, PHP cơ bản. Đã từng làm việc với Flask và GoHugo."
+
+- name: Database management
+  icon: "images/sections/skills/database.jpg"
+  summary: "Đã từng làm việc với MySQL, SQLite, Android Room, Firebase Realtime Database và MongoDB."
+
+
+- name: Git
+  icon: "images/sections/skills/git.png"
+  summary: "Có kinh nghiệm làm phát triển ứng dụng dựa trên Git. Đã từng làm nhiều với GitHub và 1 lần với GitLab."
+
+- name: R
+  icon: "images/sections/skills/r.png"
+  summary: "Nắm được kiến thức R cơ bản. Dùng để phân tích dữ liệu đơn giản."
