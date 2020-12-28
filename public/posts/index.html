@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>404 Page not found</title>
+    <title>Posts</title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -23,7 +23,8 @@
 <link rel="stylesheet" href="/assets/css/style.css"/>
 
     
-    <link rel="stylesheet" href="/assets/css/404.css">
+    <link rel="stylesheet" href="/assets/css/layouts/list.css">
+    <link rel="stylesheet" href="/assets/css/navigators/sidebar.css">
 
 
     
@@ -68,19 +69,123 @@
 
 
       
-       
+      
+  
+  
+
+  <section class="sidebar-section" id="sidebar-section">
+    <div class="sidebar-holder">
+      <div class="sidebar" id="sidebar">
+        <input type="text" value="" placeholder="Search" data-search="" id="search-box" />
+        <div class="sidebar-tree">
+          <ul class="tree" id="tree">
+            <li id="list-heading"><a href="/posts" data-filter="all">Posts</a></li>
+            <div class="subtree">
+                
+  
+  
+  
+  
+  
+    
+    <li>
+      <i class="fas fa-plus-circle"></i><a class="" href="/posts/short-stories/">Short stories</a>
+      
+      <ul class="">
+        
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/posts/short-stories/anesthesia/">Anesthesia</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/posts/short-stories/chungcumoi/">Chung cư mới</a></li>
+  
+
+
+      </ul>
+    </li>
+  
+
+
+            </div>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
 
       
       
-<div class="container">
-    <div class="notFound">
-        <img src="/assets/images/404.png" alt="">
-        <div class="message">
-            <h1>404</h1>
-            <h4>The page you are looking for is not there yet.</h4>
-        </div>
+<section class="content-section" id="content-section">
+  <div class="content container-fluid" id="content">
+    <div class="container-fluid post-card-holder" id="post-card-holder">
+      
+      
+        <div class="post-card">
+  <a href="/posts/short-stories/chungcumoi/" class="post-card-link">
+    <div class="card">
+      <div class="card-head">
+        <img class="card-img-top" src='/images/posts/short-stories/chungcumoi.jpg'/>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Chung cư mới</h5>
+        <p class="card-text post-summary"><p>Toà chung cư này được xây trên một mồ chôn bệnh nhân tập thể, nhưng 20 năm trước, khi uỷ ban thanh phố cho khởi công dự án thì không một ai biết chuyện này.</p></p>
+      </div>
+      <div class="card-footer">
+        <span class="float-left">May 2, 2020</span>
+        <a
+        href="/posts/short-stories/chungcumoi/"
+        class="float-right btn btn-outline-info btn-sm"
+        >Read</a
+        >
+      </div>
     </div>
+  </a>
 </div>
+
+      
+        <div class="post-card">
+  <a href="/posts/short-stories/anesthesia/" class="post-card-link">
+    <div class="card">
+      <div class="card-head">
+        <img class="card-img-top" src='/images/posts/short-stories/hubble.jpg'/>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Anesthesia</h5>
+        <p class="card-text post-summary"><p>Do you know what’s scary? Anesthesia.</p></p>
+      </div>
+      <div class="card-footer">
+        <span class="float-left">April 11, 2020</span>
+        <a
+        href="/posts/short-stories/anesthesia/"
+        class="float-right btn btn-outline-info btn-sm"
+        >Read</a
+        >
+      </div>
+    </div>
+  </a>
+</div>
+
+      
+    </div>
+    <div class="paginator">
+      
+
+
+    </div>
+  </div>
+</section>
 
 
       
@@ -217,6 +322,8 @@
 
 
     
-     
+    
+    <script src="/assets/js/list.js"></script>
+
   </body>
 </html>

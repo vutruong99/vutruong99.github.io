@@ -24,7 +24,7 @@ projects:
 - name: Medical Emergency Response Application
   
   role: Designer, Developer
-  timeline: "April 2020 - August 2020"
+  timeline: "Apr 2020 - Aug 2020"
    # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   url: https://drive.google.com/file/d/17TH6j1iQ4A-JOzrxw-kLhTQ5P6Yuf33J
@@ -34,7 +34,7 @@ projects:
 - name: Veevu Discord Bot
   logo: 
   role: Developer
-  timeline: "March 2020"
+  timeline: "Mar 2020"
   url: "https://github.com/vutruong99/Veevu-Discord-Bot"
   summary: A Discord bot that greets and shows COVID-19 data of countries.
   tags: ["hobby", "API","Javascript"]
@@ -42,7 +42,7 @@ projects:
 - name: Latex Editor
   logo: 
   role: Developer
-  timeline: "Febuary 2020 - April 2020"
+  timeline: "Feb 2020 - Apr 2020"
   url: https://github.com/vutruong99/FinalWeb.Latex
   summary: An website which convert Latex codes to a PDF file
   tags: ["academic","Javascript","Latex"]
@@ -50,7 +50,7 @@ projects:
 - name: Internet Relay Chat Client
   logo: 
   role: Developer
-  timeline: "November 2019 - January 2020"
+  timeline: "Nov 2019 - Jan 2020"
   url: https://github.com/vutruong99/IRC_Client
   summary: An Android chatting application which uses the IRC protocol.
   tags: ["academic","IRC","Android","Java"]
@@ -58,7 +58,7 @@ projects:
 - name: Tourist Trace Tracker
   logo: 
   role: Developer
-  timeline: "October 2019 - January 2020"
+  timeline: "Oct 2019 - Jan 2020"
   url: https://drive.google.com/file/d/17TH6j1iQ4A-JOzrxw-kLhTQ5P6Yuf33J
   summary: An Android application which collects the coordinates of the users and send them back to the server.
   tags: ["academic","Javascript","Android","Java"]
