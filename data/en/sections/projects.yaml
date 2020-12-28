@@ -44,7 +44,7 @@ projects:
   role: Developer
   timeline: "Feb 2020 - Apr 2020"
   url: https://github.com/vutruong99/FinalWeb.Latex
-  summary: An website which convert Latex codes to a PDF file
+  summary: An website which converts Latex codes to a PDF file.
   tags: ["academic","Javascript","Latex"]
 
 - name: Internet Relay Chat Client
