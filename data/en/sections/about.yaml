@@ -8,18 +8,18 @@ section:
   template: sections/about.html
 
 # your designation
-designation: 
+designation: Graduate
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: USTH
+  url: "https://usth.edu.vn/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I am an ICT graduate looking for a chance to pursue a Master's degree. Besides programming, 
-I enjoy writing short stories, composing music, playing instruments, books and movies. This website is basically a better visualization of my Résume, plus some extra stuff about me."  
+summary: "I am an ICT graduate looking for an opportunity to pursue a Master's degree in Data Science. Besides programming, 
+I enjoy writing short stories, composing music, playing instruments, books and movies. This website is basically a better visualization of my résume, plus some extra stuff about me. I'm still updating it and planning to write some posts here as well."  
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -30,9 +30,6 @@ socialLinks:
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/vutruong99"
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "https://www.facebook.com/thivu.truongsi/"
 - name: Linkedin
   icon: "fab fa-linkedin"
   url: "www.linkedin.com/in/vutruong99"
@@ -42,13 +39,13 @@ socialLinks:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
 - name: Leadership
-  percentage: 90
+  percentage: 85
   color: blue
 - name: Team Work
   percentage: 90
   color: yellow
-- name: Time Utilization
-  percentage: 85
+- name: "Time Utilization"
+  percentage: 90
   color: green
 - name: Communication
   percentage: 85

@@ -1,8 +1,8 @@
 # some information about you
 name: "Thi Vũ"
-nickname: "Veevu"
+nickname: "Vũ"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Greetings heroes, it's"
+greeting: "Hi there, I'm"
 image: "images/author/avatar.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -17,5 +17,5 @@ summary:
   - I will face its harms
   - I don't care how far
   - I can go the distance
-  - Till I find my hero's welcome
-  - waiting in your arms
+  - Till I find my hero's welcome waiting in your arms
+  

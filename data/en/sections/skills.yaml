@@ -18,7 +18,7 @@ skills:
 
 - name: Python
   icon: "/images/sections/skills/python.png"
-  summary: "Used for problem solving, machine learning algorithm building, and data crawling. Worked with Numpy, Pandas, Scrapy, Matplotlib, scikit-learn."
+  summary: "Used for problem solving, machine learning algorithm building, and data crawling. Worked with Numpy, Pandas, Scrapy, Matplotlib, scikit-learn, tf.keras."
   url: "https://www.python.org/"
 
 - name: Javascript
@@ -28,23 +28,30 @@ skills:
 
 - name: Firebase
   icon: "/images/sections/skills/firebase.png"
+  url: "https://firebase.google.com/"
   summary: "Used as a backend service for an Android project. Worked with Firebase Authentication, Firebase Realtime Database and Cloud Firestore."
+
 - name: C/C++
   icon: "images/sections/skills/c.png"
+  url: "https://www.cprogramming.com/"
   summary: "Know basic C/C++ programming. Used for algorithm writing and problem solving."
 
 - name: Web development
   icon: "images/sections/skills/web.png"
+  url: "https://www.w3schools.com/"
   summary: "Know basic HTML, CSS, JS, Bootstrap, PHP. Also worked with Flask and GoHugo."
 
 - name: Database management
   icon: "images/sections/skills/database.jpg"
+  url: "https://www.mysql.com/"
   summary: "Worked with MySQL, SQLite, Android Room, Firebase Realtime Database and MongoDB."
 
 - name: Git
+  url: "https://git-scm.com/"
   icon: "images/sections/skills/git.png"
   summary: "Experienced with git-based development. Mostly worked with GitHub and once with GitLab."
 
 - name: R
+  url: "https://www.r-project.org/"
   icon: "images/sections/skills/r.png"
   summary: "Know basic R. Used for simple Data Analysis."
