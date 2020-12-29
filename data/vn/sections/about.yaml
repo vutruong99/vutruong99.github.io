@@ -8,18 +8,19 @@ section:
   template: sections/about.html
 
 # your designation
-designation: 
+designation: Công dân có ích
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Hà Nội
+  url: "https://vi.wikipedia.org/wiki/H%C3%A0_N%E1%BB%99i"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: "Tôi là sinh viên Công nghệ thông tin mới ra trường và đang tìm kiếm cơ hội học Thạc sĩ. Ngoài lập trình, tôi dành thời gian viết truyện ngắn,
-soạn nhạc, chơi đàn, đọc sách và xem phim. Trang web này trực quan hoá CV của tôi và có thêm vài thứ hay ho."  
+summary: "Tôi là một người yêu khoa học mới nhận bằng cử nhân trong lĩnh vực CNTT tại trường Đại học Khoa học Công nghệ và Hà Nội.
+Tôi sinh ra ở Thuỵ Điển nhưng hiện đang sống tại Việt Nam. Ngoài lập trình ra, tôi dành thời gian truyện ngắn, soạn nhạc, chơi đàn, xem phim và đọc sách.
+Website này giúp trực quan hoá sơ yếu lý lịch của tôi, cộng thêm vài điều hay ho nữa. Tôi vẫn đang cập nhật website này."  
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -30,9 +31,6 @@ socialLinks:
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/vutruong99"
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "https://www.facebook.com/thivu.truongsi/"
 - name: Linkedin
   icon: "fab fa-linkedin"
   url: "www.linkedin.com/in/vutruong99"
@@ -42,13 +40,13 @@ socialLinks:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
 - name: Lãnh đạo
-  percentage: 90
+  percentage: 85
   color: blue
 - name: Làm việc nhóm
   percentage: 90
   color: yellow
 - name: Quản lý thời gian
-  percentage: 85
+  percentage: 90
   color: green
 - name: Giao tiếp
   percentage: 85
