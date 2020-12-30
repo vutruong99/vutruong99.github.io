@@ -10,7 +10,7 @@ languages:
   en:
     languageName: English
     weight: 1
-  vi:
+  vn:
     languageName: Tiếng Việt
     weight: 2
   # fr:
