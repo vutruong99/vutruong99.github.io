@@ -12,7 +12,7 @@ languages:
     weight: 1
   vn:
     languageName: Tiếng Việt
-    weight: 2
+    weight: 3
   # fr:
   #   languageName: Français
   #   weight: 3 
