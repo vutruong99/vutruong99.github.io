@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Công dân có ích
+designation: Người yêu nhạc
 # your company information
 company:
   name: Hà Nội
@@ -19,7 +19,7 @@ resume: "files/resume.pdf"
 
 # a summary about you
 summary: "Tôi là một người yêu khoa học mới nhận bằng cử nhân trong lĩnh vực CNTT tại trường Đại học Khoa học Công nghệ và Hà Nội.
-Tôi sinh ra ở Thuỵ Điển nhưng hiện đang sống tại Việt Nam. Ngoài lập trình ra, tôi dành thời gian truyện ngắn, soạn nhạc, chơi đàn, xem phim và đọc sách.
+Tôi sinh ra ở Thuỵ Điển nhưng hiện đang sống tại Việt Nam. Ngoài lập trình ra, tôi dành thời gian viết truyện, soạn nhạc, chơi đàn, và xem phim.
 Website này giúp trực quan hoá sơ yếu lý lịch của tôi, cộng thêm vài điều hay ho nữa. Tôi vẫn đang cập nhật website này."  
 
 # your social links
