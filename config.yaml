@@ -10,9 +10,9 @@ languages:
   en:
     languageName: English
     weight: 1
-  vn:
-    languageName: Tiếng Việt 
-    weight: 2
+  # vn:
+  #   languageName: Tiếng Việt 
+  #   weight: 2
   # fr:
   #   languageName: Français
   #   weight: 3 
